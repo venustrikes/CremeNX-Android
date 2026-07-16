@@ -44,7 +44,7 @@ CrèmeNX would not exist without the work of others:
 - **[Ryujinx](https://git.ryujinx.app/archive/ryujinx-mirror)** by gdkchan and contributors — the original emulator this all descends from.
 - **[Ryubing](https://git.ryujinx.app/projects/Ryubing)** — the fork that carried the project forward.
 - **[Kenji-NX](https://git.ryujinx.app/projects/Kenji-NX)** — the direct upstream of this fork, and the source of the emulation core and Android bindings.
-- **[MeloNX](https://github.com/StossyDev/MeloNX)** — the inspiration for the menu layout and settings design.
+- **[MeloNX](https://git.ryujinx.app/projects/MeloNX)** — the inspiration for the menu layout and settings design.
 
 ## License
 
